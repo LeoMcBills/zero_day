@@ -1,0 +1,1 @@
+Using VM for assignments
